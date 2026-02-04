@@ -142,5 +142,30 @@ print("Data cleaning and outlier detection were successfully performed.")
 print("\n=============== END OF EXPERIMENT 01 ===============")
 
 ```
+<img width="833" height="256" alt="Screenshot 2026-02-04 113528" src="https://github.com/user-attachments/assets/61aae008-da92-4b61-9306-f20cd489e8a1" />
+
+<img width="821" height="567" alt="Screenshot 2026-02-04 113604" src="https://github.com/user-attachments/assets/fbaf15e8-aa7c-4da7-9458-6644f81584f8" />
+
+<img width="521" height="420" alt="Screenshot 2026-02-04 113613" src="https://github.com/user-attachments/assets/0e76edb0-3fb4-45f8-bec8-90b790001aa7" />
+
+<img width="838" height="349" alt="Screenshot 2026-02-04 113622" src="https://github.com/user-attachments/assets/3cc18b7f-99a5-44dd-93e2-0b30510f7a0f" />
+
+<img width="372" height="644" alt="Screenshot 2026-02-04 113634" src="https://github.com/user-attachments/assets/36458adb-7aeb-498b-a469-109167ad8601" />
+
+<img width="401" height="348" alt="Screenshot 2026-02-04 113648" src="https://github.com/user-attachments/assets/b339fab6-d108-4787-a10f-5874c65e22b0" />
+
 # Result
+<img width="786" height="598" alt="Screenshot 2026-02-04 111525" src="https://github.com/user-attachments/assets/c82ce990-2c30-431b-8d78-44f062d426bc" />
+
+<img width="797" height="595" alt="Screenshot 2026-02-04 111550" src="https://github.com/user-attachments/assets/ffa97f1c-39c1-4c3e-9a17-0f357fa7459d" />
+
+<img width="800" height="598" alt="Screenshot 2026-02-04 111602" src="https://github.com/user-attachments/assets/ebeee3da-f0c7-491e-8c8b-533e14a4c057" />
+
+<img width="792" height="593" alt="Screenshot 2026-02-04 111612" src="https://github.com/user-attachments/assets/bc8367c8-2879-41a9-b937-d393de1002b6" />
+
+<img width="799" height="597" alt="Screenshot 2026-02-04 111625" src="https://github.com/user-attachments/assets/0142f550-4c7d-428b-9246-599aa783db53" />
+
+
+
+
 Data Cleaning Process is verified
